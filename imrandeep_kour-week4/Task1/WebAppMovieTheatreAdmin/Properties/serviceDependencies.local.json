@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "WebAppMovieTheatreAdminContext"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "Task2WebAppContext"
+    }
+  }
+}
