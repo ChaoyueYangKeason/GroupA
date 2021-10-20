@@ -1,0 +1,17 @@
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Identity.deps.json
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Identity.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\ref\BlogLab.Identity.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Identity.pdb
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Models.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Repository.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Models.pdb
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\bin\Debug\net5.0\BlogLab.Repository.pdb
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.csproj.AssemblyReference.cache
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.AssemblyInfoInputs.cache
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.AssemblyInfo.cs
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.csproj.CoreCompileInputs.cache
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.csproj.CopyComplete
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\ref\BlogLab.Identity.dll
+C:\Users\36813\Desktop\GroupA\GroupA\Blog\BlogLab.Identity\obj\Debug\net5.0\BlogLab.Identity.pdb
